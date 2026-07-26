@@ -1,16 +1,26 @@
-## Hi there 👋
+Hi there, I'm Sanjana Rajasekar! 👋
+B.Tech CSE (AI & ML) Student | Aspiring Developer & Tech Enthusiast
+Welcome to my GitHub profile! I am a passionate Computer Science and Engineering student specializing in Artificial Intelligence & Machine Learning. I am dedicated to building intelligent systems, contributing to open-source software, and diving deep into Deep Learning research.
 
-<!--
-**SanjanaTech19/SanjanaTech19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 About Me
+🎓 Education: Pursuing B.Tech in Computer Science & Engineering (AI & ML).
+💡 Interests: Deep Learning, Computer Vision, Natural Language Processing, and Open Source.
+🔬 Aspiration: Driving innovation in AI through research and developing real-world ML applications.
+🌱 Learning: Currently exploring advanced topics in Deep Learning (like Transformers and Generative Models) and optimizing PyTorch workflows.
+🛠️ Tech Stack & Skills
+💻 Languages & Frameworks
+PythonPyTorchscikit-learnNumPyPandas
 
-Here are some ideas to get you started:
+🔧 Tools & Platforms
+GitGitHubJupyter NotebooksVS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔬 Research Interests & Focus Areas
+🧠 Deep Neural Networks: Architectural optimizations, custom layers, and transfer learning.
+👁️ Computer Vision: Object detection, semantic segmentation, and generative image models.
+📝 Natural Language Processing: Transformers, sequence-to-sequence models, and fine-tuning LLMs.
+🌐 Open-Source AI: Contributing to community-driven AI/ML repositories to democratize technology.
+
+📬 Connect with Me
+Let's collaborate or discuss AI, ML, research, and open source!
+LinkedIn: https://www.linkedin.com/in/sanjanaaarajasekar/
+Email: sanjana.rajasekar06@gmail.com
