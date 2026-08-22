@@ -42,14 +42,6 @@ Welcome to my GitHub profile! I am a passionate Computer Science and Engineering
 
 ---
 
-## 📈 GitHub Statistics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SanjanaTech19&show_icons=true&theme=radial&hide_border=true" alt="Sanjana's GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SanjanaTech19&theme=radial&hide_border=true" alt="Sanjana's GitHub Streak" />
-</p>
-
----
 
 ## 📬 Connect with Me
 Let's collaborate or discuss AI, ML, research, and open source!
