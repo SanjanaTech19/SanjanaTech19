@@ -1,7 +1,7 @@
 # Hi there, I'm Sanjana Rajasekar! 👋
 ### B.Tech CSE (AI & ML) Student | Aspiring Developer & Tech Enthusiast
 
-Welcome to my GitHub profile! I am a passionate Computer Science and Engineering student specializing in **Artificial Intelligence & Machine Learning**. I am dedicated to building intelligent systems, contributing to open-source software, and diving deep into Deep Learning research.
+Welcome to my GitHub profile! I am a passionate Computer Science and Engineering student specializing in **Artificial Intelligence & Machine Learning**. I am dedicated to building intelligent systems, contributing to open-source software, and diving deep into Deep Learning research. 
 
 ---
 
